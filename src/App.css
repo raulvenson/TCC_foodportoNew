@@ -1,0 +1,16 @@
+
+.header {
+  background-color: black;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Coolvetica';
+  src: url('./assets/fonts/coolveticacondensedrg.ttf')
+}
+
+html {
+  background-color: black;
+}
+
+

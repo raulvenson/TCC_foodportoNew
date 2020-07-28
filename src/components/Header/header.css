@@ -1,0 +1,20 @@
+/* .onMenu{
+    height: 250px; 
+    
+}
+
+.canto {
+    height: 150px; 
+    float: right;
+    padding-top: 150px;
+}
+*/
+
+.header-home {
+	width: 320px !important;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    background-color: black !important;
+    margin-bottom: 10px;
+} 
